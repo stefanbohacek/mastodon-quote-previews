@@ -1,0 +1,67 @@
+body{
+    font-size: 1rem;
+    padding: 10px 6px;
+}
+
+ul.no-bullets{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.lead{
+    font-size: 1.2rem;
+}
+
+.lead a {
+    text-decoration: none;
+}
+
+.section-title{
+    font-size: 1rem;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.w-100{
+    width: 100%;
+}
+
+.mt-1{
+    margin-top: 8px;
+}
+
+.p-1{
+    padding:  8px;
+}
+
+.pt-1{
+    padding-top:  8px;
+}
+
+.pb-1{
+    padding-bottom:  8px;
+}
+
+.pl-2{
+    padding-left:  16px;
+}
+
+button{
+    cursor: pointer;
+    padding: 8px;
+}
+
+#tag-browser-link{
+    border-top: 1px solid silver;
+}
+
+.fw-bold{
+    font-weight: bold;
+}
+
+.d-none{
+    display: none;
+}

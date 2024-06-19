@@ -1,0 +1,1 @@
+A side-by-side comparison of a quoted Mastodon post. On the left, the text is cut off. On the right, it is fully visible.
