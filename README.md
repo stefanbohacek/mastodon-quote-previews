@@ -1,5 +1,9 @@
 # Mastodon Quote Previews
 
+> [!IMPORTANT]  
+> This feature was added to my Mastodon Tools browser plugin. [Go check it out!](https://stefanbohacek.com/project/mastodon-tools-browser-extension/)
+
+
 <!--
 **[Add to Firefox](TODO) | [Add to Chrome](TODO)**
 -->
